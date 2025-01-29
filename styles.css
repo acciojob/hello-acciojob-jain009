@@ -15,3 +15,45 @@
     font-weight: bold;
     text-align: center;
 }
+.main{
+	value:'984px'
+	width:'150px'
+	height:'150px'
+	background-color:'rgb(0,0,0)'
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hello-accio {
+    color: #ffffff; /* White text */
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.main{
+	value:'984px'
+	width:'150px'
+	height:'150px'
+	background-color:'rgb(0,0,0)'
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hello-accio {
+    color: #ffffff; /* White text */
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.main{
+	value:'984px'
+	width:'150px'
+	height:'150px'
+	background-color:'rgb(0,0,0)'
+
+.hello-accio {
+    color: #ffffff; /* White text */
+	left-margin: "32px"
+	padding:"10px"
+    
+}
