@@ -1,13 +1,13 @@
 
 .main{
-	value:984px
-	width:150px
-	height:150px
-	background-color:rgb(0,0,0)
+	
+	width:150px;
+	height:150px;
+	background-color:rgb(0,0,0);
 
 .hello-accio {
-    color: #ffffff /* White text */
-	margin-left: 32px
-	padding:50px
+    color: #ffffff ;/* White text */
+	margin-left: 32px;
+	padding:50px;
     
 }
